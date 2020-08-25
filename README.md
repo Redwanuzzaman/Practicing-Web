@@ -1,2 +1,2 @@
 # Practicing-Web
-HTML CSS JavaScript Practice
+HTML CSS JavaScript JQuery
