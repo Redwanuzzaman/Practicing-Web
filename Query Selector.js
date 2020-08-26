@@ -9,3 +9,4 @@
 document.querySelector("#head1").innerHTML = "for ID";  // to access by id
 document.querySelector(".head2").innerHTML = "for CLASS"  // to access by class
 document.querySelector("p").innerHTML = "for TAG"  // to access by tag name
+document.querySelector("li a").innerHTML = "text changed";  // to change nested tags (here changing the anchor tag inside the list tag)
